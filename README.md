@@ -36,7 +36,4 @@ Given customer demographics and product data, predict the `purchase` amount for 
 - Pandas, NumPy, Matplotlib, Seaborn  
 - Scikit-learn, XGBoost
 
----
-
-## 🗂️ File Structure
 
